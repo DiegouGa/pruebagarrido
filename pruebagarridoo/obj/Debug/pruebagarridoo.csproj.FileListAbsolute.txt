@@ -1,0 +1,8 @@
+C:\Users\diego\source\repos\pruebagarrido\pruebagarridoo\bin\Debug\pruebagarridoo.exe.config
+C:\Users\diego\source\repos\pruebagarrido\pruebagarridoo\bin\Debug\pruebagarridoo.exe
+C:\Users\diego\source\repos\pruebagarrido\pruebagarridoo\bin\Debug\pruebagarridoo.pdb
+C:\Users\diego\source\repos\pruebagarrido\pruebagarridoo\obj\Debug\pruebagarridoo.csproj.AssemblyReference.cache
+C:\Users\diego\source\repos\pruebagarrido\pruebagarridoo\obj\Debug\pruebagarridoo.csproj.SuggestedBindingRedirects.cache
+C:\Users\diego\source\repos\pruebagarrido\pruebagarridoo\obj\Debug\pruebagarridoo.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\pruebagarrido\pruebagarridoo\obj\Debug\pruebagarridoo.exe
+C:\Users\diego\source\repos\pruebagarrido\pruebagarridoo\obj\Debug\pruebagarridoo.pdb
